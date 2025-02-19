@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=wc_store_erp',
+    'dsn' => 'mysql:host=localhost;dbname=?',
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
